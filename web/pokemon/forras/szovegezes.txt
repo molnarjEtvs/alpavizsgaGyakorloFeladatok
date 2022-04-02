@@ -1,0 +1,40 @@
+Szerezd Meg Mind!
+
+Sprigatito
+Típus: Fű, Macska
+Magasság: 1.4"
+Súly: 9lbs.
+Képesség: Túlnövés
+Részletek
+
+Fuecoco
+Típus: Tűz, Krokodil
+Magasság: 1.4"
+Súly: 21.6 lbs.
+Képesség: Lángol
+Részletek
+
+Quaxly
+Típus: Kacsa
+Magasság: 1.8"
+Súly: 13.4 lbs.
+Képesség: Folyam
+Részletek
+
+Pokemon
+A Pokémon a japán Nintendo cég médiaterméke, amelyet 1996-ban Tadzsiri Szatosi ötlete alapján készítettek. Eredetileg a Game Boy kézi játékkonzolra tervezett szerepjátékként indult el. Mára a világ egyik legsikeresebb videójátékává vált. A Pokémon név alatt már készítettek többek közt animét, mangát, gyűjthető kártyát, mozifilmeket is. A termék 2006. február 27-én ünnepelte 10. születésnapját, és 2006 decemberéig megközelítőleg 155 millió példányban kelt el.
+A név szóösszerántás az angol „Pocket Monsters” (ポケットモンスター; japánosan Poketto Monszutá?, ’zsebszörnyek’) szavakból. A Pokémon név nemcsak a márkát, hanem azt az idáig 720 különféle kitalált lényt is jelöli, amelyek a márkanév alatt megjelenő videójátékok, az anime és mangák szereplői. A játék jelmondata japánul "Pokémon, elkaplak!" (ポケモンGETだぜ! = Pokemon Getto Daze!), de az amerikai (és így a magyar) változatban "Szerezd meg mind!" (Gotta catch 'em all!) lett.
+A játék alapja lett a Pokémon Go nevű ingyenes okostelefonos játéknak, amelyet a The Pokémon Company dobott piacra. 2016 nyarán a Niantic Labs fejlesztésében iPhone-ra és Androidra jelent meg.
+
+Az első 10 pokémon
+Dex No 	Név 	Pokédex 	Fejlődési fázis 	Típus
+001 	Bulbasaur 	226 	Tojás 	Fű/Méreg
+002 	Ivysaur 	227 	Bulbasaur 	Fű/Méreg
+003 	Venusaur 	228 	Ivysaur 	Fű/Méreg
+004 	Charmander 	229 	Tojás 	Tűz
+005 	Charmeleon 	230 	Charmander 	Tűz 
+
+Mutasd meg az erejét!
+
+Pokemon Corporation
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem adipisci quaerat ad numquam unde totam nulla. Quaerat vero sapiente dolorem repellat perferendis suscipit tempore soluta laborum alias, odio reprehenderit voluptatum! 
