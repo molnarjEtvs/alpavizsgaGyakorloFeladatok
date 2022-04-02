@@ -1,0 +1,11 @@
+body{
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+.myHeader{
+    background-image: url('./img/yacht.png');
+    min-height: 400px;
+    background-position: top center;
+}
+.myColor1{
+    color: #22a3ab;
+}
