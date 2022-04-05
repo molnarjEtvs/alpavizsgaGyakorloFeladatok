@@ -18,10 +18,10 @@ ajtok=[]
 for sor in f:
     sor=sor[:-1]
     x=sor.split(";")
-    ajtok.append(Ajto(x[0],x[1]))
-    idx=len(ajtok)-1
-    ajtok[idx].saveAjtoMeret(int(x[2]),int(x[3]))
-    ajtok[idx].genAjtoAra()
+    ajto = Ajto(x[0],x[1])
+    ajto.saveAjtoMeret(int(x[2]),int(x[3]))
+    ajto.genAjtoAra()
+    ajtok.append(ajto)
 f.close()
 print("Adatok feldolgozva")
 

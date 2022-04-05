@@ -22,11 +22,10 @@ pokemonok=[]
 for sor in f:
     sor=sor[:-1]
     x=sor.split(",")
-    pokemonok.append(Pokemon(x[0],x[1],int(x[2])))
-    idx=len(pokemonok)-1
-    pokemonok[idx].kepessegGenerator()
-    pokemonok[idx].setUgrasiMagassag()
-
+    pok = Pokemon(x[0],x[1],int(x[2]))
+    pok.kepessegGenerator()
+    pok.setUgrasiMagassag()
+    pokemonok.append(pok)
 f.close()
 print("Adatok feldolgozva")
 
