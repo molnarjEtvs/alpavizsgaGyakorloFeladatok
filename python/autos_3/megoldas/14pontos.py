@@ -23,7 +23,6 @@ def feldolgoz(x):
     print("0 és 1000 között: "+a)
     print("1001 és 3000 között: "+b)
     print("3000 felett: "+c) 
-        
-        
+    
 szamok=generalas()
 feldolgoz(szamok)
